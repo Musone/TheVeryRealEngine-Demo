@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheVeryRealEngine", "TheVeryRealEngine\TheVeryRealEngine.vcxproj", "{5791408C-C655-41CF-8D50-E0B7EF266068}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SotHack", "SotHack\SotHack.vcxproj", "{1632ECB2-FAA9-437E-B0D2-E131C9A56AE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5791408C-C655-41CF-8D50-E0B7EF266068}.Debug|x64.ActiveCfg = Debug|x64
+		{5791408C-C655-41CF-8D50-E0B7EF266068}.Debug|x64.Build.0 = Debug|x64
+		{5791408C-C655-41CF-8D50-E0B7EF266068}.Release|x64.ActiveCfg = Release|x64
+		{5791408C-C655-41CF-8D50-E0B7EF266068}.Release|x64.Build.0 = Release|x64
+		{1632ECB2-FAA9-437E-B0D2-E131C9A56AE0}.Debug|x64.ActiveCfg = Debug|x64
+		{1632ECB2-FAA9-437E-B0D2-E131C9A56AE0}.Debug|x64.Build.0 = Debug|x64
+		{1632ECB2-FAA9-437E-B0D2-E131C9A56AE0}.Release|x64.ActiveCfg = Release|x64
+		{1632ECB2-FAA9-437E-B0D2-E131C9A56AE0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C48FC1C-2634-47C4-AC5B-EB006DDFB283}
+	EndGlobalSection
+EndGlobal
